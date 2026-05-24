@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danipinion;" />
 </h1>
 
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">A passionate System Administrator from Indonesia</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Web Application**
+ 🔭 I’m currently working on **Network Engineer**
  
- 🌱 I’m currently learning **React, Tailwind, Next, Express**
+ 🌱 I’m currently learning **Ansible, Terraform, Docker, Kubernetes**
 
- 💬 Ask me about **Node.js, React, Tailwind**
+ 💬 Ask me about **Docker, Linux Server**
 
  ⚡ Fun fact **Coffee is the main fuel for developers**
  
