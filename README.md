@@ -45,10 +45,9 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🌵 My Contributions 🌵</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://svgshare.com/getbyhash/sha1-JaZv4fkm0DvlG/7hn/fuKctlPnU=" />
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Danipinion/Danipinion/refs/heads/output/output.png" />
   <br/><br/><br/>
 </div>
 
